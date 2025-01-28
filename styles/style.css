@@ -45,6 +45,7 @@ body {
     }
 
     & p {
+        color: var(--var-color-slate-900, hsl(218, 44%, 22%));
         font-size: 15px;
     }
 
